@@ -1,0 +1,1 @@
+This repo splits a video on when a person is mouthing the word. Based on only the visual cue.
